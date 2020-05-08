@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryDark">#573691</color>
+    <color name="colorAccent">#118A8A</color>
+
+    <color name="color1_deezer">#6B42B4</color>
+    <color name="color2_deezer">#F06262</color>
+
+</resources>
